@@ -6,10 +6,10 @@ This repository contains Java assignments for WIX1002 – Fundamentals of Progra
 
 The exercises follow the official lab progression, covering topics such as Java basics, control flow, arrays, methods, and file handling.
 
-👥 Contributors (Original Files)
+👥 Contributors (Original Files)\
 Tan Wei Feng (TWF06)
 
-👥 Contributors (Final Files)
-Tan Wei Feng (TWF06)
-Lee Xin Yi (0506xinyi)
+👥 Contributors (Final Files)\
+Tan Wei Feng (TWF06)\
+Lee Xin Yi (0506xinyi)\
 Cheng Ying Chen (CYC73)
