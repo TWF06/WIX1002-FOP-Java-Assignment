@@ -1,0 +1,5 @@
+1003,Ahmad,1500.0,ahm456,Savings,0.03,200.0
+1002,Siti,3200.0,pass123,Savings,0.035,300.0
+1001,Ali,2627.9655555,1234,Savings,0.04,500.0
+2002,Daniel,800.0,dan789,Current,1500.0
+2001,Aisyah,-550.0,abcd,Current,1000.0
